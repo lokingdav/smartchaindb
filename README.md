@@ -15,13 +15,13 @@ Code is Apache-2.0 and docs are CC-BY-4.0
 
 SmartchainDB is the blockchain database. This repository is for _SmartchainDB Server_.
 
-## The Basics
-
-* [Try the Quickstart](https://docs.smartchaindb.com/projects/server/en/latest/quickstart.html)
-* [Read the SmartchainDB whitepaper](https://www.smartchaindb.com/whitepaper/)
-* [Check out the _Hitchhiker's Guide to SmartchainDB_](https://www.smartchaindb.com/developers/guide/)
 
 ## Run and Test SmartchainDB Server from the `master` Branch
 
 Running and testing the latest version of SmartchainDB Server is easy. Make sure you have a recent version of [Docker Compose](https://docs.docker.com/compose/install/) installed. When you are ready, fire up a terminal and run:
+
+```bash
+git clone [https://github.com/smartchaindb/smartchaindb.git](https://anonymous.4open.science/r/smartchaindb-0811/README.md)
+cd smartchaindb
+make run
 
