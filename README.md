@@ -4,13 +4,14 @@ SPDX-License-Identifier: (Apache-2.0 AND CC-BY-4.0)
 Code is Apache-2.0 and docs are CC-BY-4.0
 --->
 
+<!---
 [![Codecov branch](https://img.shields.io/codecov/c/github/smartchaindb/smartchaindb/master.svg)](https://codecov.io/github/smartchaindb/smartchaindb?branch=master)
 [![Latest release](https://img.shields.io/github/release/smartchaindb/smartchaindb/all.svg)](https://github.com/smartchaindb/smartchaindb/releases)
 [![Status on PyPI](https://img.shields.io/pypi/status/smartchaindb.svg)](https://pypi.org/project/SmartchainDB/)
 [![Travis branch](https://img.shields.io/travis/smartchaindb/smartchaindb/master.svg)](https://travis-ci.com/smartchaindb/smartchaindb)
 [![Documentation Status](https://readthedocs.org/projects/smartchaindb-server/badge/?version=latest)](https://docs.smartchaindb.com/projects/server/en/latest/)
 [![Join the chat at https://gitter.im/smartchaindb/smartchaindb](https://badges.gitter.im/smartchaindb/smartchaindb.svg)](https://gitter.im/smartchaindb/smartchaindb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+--->
 # SmartchainDB Server
 
 SmartchainDB is the blockchain database. This repository is for _SmartchainDB Server_.
