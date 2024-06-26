@@ -19,7 +19,7 @@ SmartchainDB is the blockchain database. This repository is for _SmartchainDB Se
 
 ## Run and Test SmartchainDB Server from the `master` Branch
 
-Running and testing the latest version of SmartchainDB Server is easy. Make sure you have a recent version of [Docker Compose](https://docs.docker.com/compose/install/) installed. When you are ready, fire up a terminal and run:
+This is the guide on how to run the latest version of SmartchainDB Server.  When you are ready, fire up a terminal and run:
 
 ```bash
 git clone https://anonymous.4open.science/r/smartchaindb-0811/
@@ -34,6 +34,8 @@ Install Dependencies:
 chmod +x install_dependencies.sh
 ./install_dependencies
 ```
+IMPORTANT! Make sure you that all dependecies have been properly isntalled.
+
 Configuration:
 - Ensure each node has Tendermint installed and initialized. Use ``` tendermint init``` to initialize.
 - Generate the public keys and node IDs for each Tendermint node using commands ```tendermint show_node_id``` and ```tendermint show_validator```.
