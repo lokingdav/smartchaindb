@@ -35,6 +35,8 @@ chmod +x install_dependencies.sh
 ```
 Configuration:
 - Ensure each node has Tendermint installed and initialized. Use ``` tendermint init``` to initialize.
-- Generate the public keys and node IDs for each Tendermint node using ```tendermint show_node_id``` and ```tendermint show_validator```.
+- Generate the public keys and node IDs for each Tendermint node using commands ```tendermint show_node_id``` and ```tendermint show_validator```.
+
 Networking:
 - Configure the `genesis.json` and `config.toml` files for each Tendermint node to include the other nodes in the network.
+    - Follow [How to Set Up a BigchainDB Network](https://docs.bigchaindb.com/en/latest/installation/network-setup/network-setup.html) documentation
